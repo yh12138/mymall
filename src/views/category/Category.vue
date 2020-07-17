@@ -1,0 +1,246 @@
+<template>
+  <div class="wrapper" ref="aaa"><ul class="content">
+      <li>{tt1}</li>
+      <li>{tt2}</li>
+      <li>{tt3}</li>
+      <li>{tt4}</li>
+      <li>{tt5}</li>
+      <li>{tt6}</li>
+      <li>{tt7}</li>
+      <li>{tt8}</li>
+      <li>{tt9}</li>
+      <li>{tt10}</li>
+      <li>{tt11}</li>
+      <li>{tt12}</li>
+      <li>{tt13}</li>
+      <li>{tt14}</li>
+      <li>{tt15}</li>
+      <li>{tt16}</li>
+      <li>{tt17}</li>
+      <li>{tt18}</li>
+      <li>{tt19}</li>
+      <li>{tt20}</li>
+      <li>{tt21}</li>
+      <li>{tt22}</li>
+      <li>{tt23}</li>
+      <li>{tt24}</li>
+      <li>{tt25}</li>
+      <li>{tt26}</li>
+      <li>{tt27}</li>
+      <li>{tt28}</li>
+      <li>{tt29}</li>
+      <li>{tt30}</li>
+      <li>{tt31}</li>
+      <li>{tt32}</li>
+      <li>{tt33}</li>
+      <li>{tt34}</li>
+      <li>{tt35}</li>
+      <li>{tt36}</li>
+      <li>{tt37}</li>
+      <li>{tt38}</li>
+      <li>{tt39}</li>
+      <li>{tt40}</li>
+      <li>{tt41}</li>
+      <li>{tt42}</li>
+      <li>{tt43}</li>
+      <li>{tt44}</li>
+      <li>{tt45}</li>
+      <li>{tt46}</li>
+      <li>{tt47}</li>
+      <li>{tt48}</li>
+      <li>{tt49}</li>
+      <li>{tt50}</li>
+      <li>{tt51}</li>
+      <li>{tt52}</li>
+      <li>{tt53}</li>
+      <li>{tt54}</li>
+      <li>{tt55}</li>
+      <li>{tt56}</li>
+      <li>{tt57}</li>
+      <li>{tt58}</li>
+      <li>{tt59}</li>
+      <li>{tt60}</li>
+      <li>{tt61}</li>
+      <li>{tt62}</li>
+      <li>{tt63}</li>
+      <li>{tt64}</li>
+      <li>{tt65}</li>
+      <li>{tt66}</li>
+      <li>{tt67}</li>
+      <li>{tt68}</li>
+      <li>{tt69}</li>
+      <li>{tt70}</li>
+      <li>{tt71}</li>
+      <li>{tt72}</li>
+      <li>{tt73}</li>
+      <li>{tt74}</li>
+      <li>{tt75}</li>
+      <li>{tt76}</li>
+      <li>{tt77}</li>
+      <li>{tt78}</li>
+      <li>{tt79}</li>
+      <li>{tt80}</li>
+      <li>{tt81}</li>
+      <li>{tt82}</li>
+      <li>{tt83}</li>
+      <li>{tt84}</li>
+      <li>{tt85}</li>
+      <li>{tt86}</li>
+      <li>{tt87}</li>
+      <li>{tt88}</li>
+      <li>{tt89}</li>
+      <li>{tt90}</li>
+      <li>{tt91}</li>
+      <li>{tt92}</li>
+      <li>{tt93}</li>
+      <li>{tt94}</li>
+      <li>{tt95}</li>
+      <li>{tt96}</li>
+      <li>{tt97}</li>
+      <li>{tt98}</li>
+      <li>{tt99}</li>
+      <li>{tt100}</li>
+      <li>{tt101}</li>
+      <li>{tt102}</li>
+      <li>{tt103}</li>
+      <li>{tt104}</li>
+      <li>{tt105}</li>
+      <li>{tt106}</li>
+      <li>{tt107}</li>
+      <li>{tt108}</li>
+      <li>{tt109}</li>
+      <li>{tt110}</li>
+      <li>{tt111}</li>
+      <li>{tt112}</li>
+      <li>{tt113}</li>
+      <li>{tt114}</li>
+      <li>{tt115}</li>
+      <li>{tt116}</li>
+      <li>{tt117}</li>
+      <li>{tt118}</li>
+      <li>{tt119}</li>
+      <li>{tt120}</li>
+      <li>{tt121}</li>
+      <li>{tt122}</li>
+      <li>{tt123}</li>
+      <li>{tt124}</li>
+      <li>{tt125}</li>
+      <li>{tt126}</li>
+      <li>{tt127}</li>
+      <li>{tt128}</li>
+      <li>{tt129}</li>
+      <li>{tt130}</li>
+      <li>{tt131}</li>
+      <li>{tt132}</li>
+      <li>{tt133}</li>
+      <li>{tt134}</li>
+      <li>{tt135}</li>
+      <li>{tt136}</li>
+      <li>{tt137}</li>
+      <li>{tt138}</li>
+      <li>{tt139}</li>
+      <li>{tt140}</li>
+      <li>{tt141}</li>
+      <li>{tt142}</li>
+      <li>{tt143}</li>
+      <li>{tt144}</li>
+      <li>{tt145}</li>
+      <li>{tt146}</li>
+      <li>{tt147}</li>
+      <li>{tt148}</li>
+      <li>{tt149}</li>
+      <li>{tt150}</li>
+      <li>{tt151}</li>
+      <li>{tt152}</li>
+      <li>{tt153}</li>
+      <li>{tt154}</li>
+      <li>{tt155}</li>
+      <li>{tt156}</li>
+      <li>{tt157}</li>
+      <li>{tt158}</li>
+      <li>{tt159}</li>
+      <li>{tt160}</li>
+      <li>{tt161}</li>
+      <li>{tt162}</li>
+      <li>{tt163}</li>
+      <li>{tt164}</li>
+      <li>{tt165}</li>
+      <li>{tt166}</li>
+      <li>{tt167}</li>
+      <li>{tt168}</li>
+      <li>{tt169}</li>
+      <li>{tt170}</li>
+      <li>{tt171}</li>
+      <li>{tt172}</li>
+      <li>{tt173}</li>
+      <li>{tt174}</li>
+      <li>{tt175}</li>
+      <li>{tt176}</li>
+      <li>{tt177}</li>
+      <li>{tt178}</li>
+      <li>{tt179}</li>
+      <li>{tt180}</li>
+      <li>{tt181}</li>
+      <li>{tt182}</li>
+      <li>{tt183}</li>
+      <li>{tt184}</li>
+      <li>{tt185}</li>
+      <li>{tt186}</li>
+      <li>{tt187}</li>
+      <li>{tt188}</li>
+      <li>{tt189}</li>
+      <li>{tt190}</li>
+      <li>{tt191}</li>
+      <li>{tt192}</li>
+      <li>{tt193}</li>
+      <li>{tt194}</li>
+      <li>{tt195}</li>
+      <li>{tt196}</li>
+      <li>{tt197}</li>
+      <li>{tt198}</li>
+      <li>{tt199}</li>
+      <li>{tt200}</li>
+    </ul>
+  </div>
+</template>
+
+<script>
+  import BScroll from 'better-scroll'
+
+  export default {
+    name: "Category",
+    data(){
+      return {
+        scroll: null
+      }
+    },
+    created() {
+    },
+    mounted() {
+      /*BScroll默认下不会时时监听滚动位置
+      *probeType 侦测 0和1：都表示不会侦测，2：才表示侦测，但手指离开后的惯性滚动不会侦测，3：只要滚动就侦测
+      *
+       */
+      this.scroll=new BScroll(document.querySelector('.wrapper'),{
+        probeType: 3,
+        pullUpload:true
+      });
+      this.scroll.on('scroll',(position)=>{
+        console.log(position);
+      })
+      this.scroll.on('pullingUp',()=>{
+        console.log('jiazia');
+      })
+    }
+  }
+</script>
+
+<style scoped>
+  .wrapper{
+    height: 150px;
+    background-color: #42b983;
+    /*原生滚动*/
+    overflow: hidden;
+    /*overflow-y: scroll;*/
+  }
+</style>
