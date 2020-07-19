@@ -40,7 +40,7 @@
   import BackTop from "components/content/backTop/BackTop";
   //数据
   import {getHomeMultidata,getHomeGoods} from "network/home";
-
+  //混入
   import {itemListenerMixin} from "common/mixin"
 
 
